@@ -10,15 +10,65 @@
         </author>
         <description>Phd Student in UCR</description>
         <language>en</language>
-        <pubDate>Thu, 30 Mar 2023 22:46:24 -0700</pubDate>
-        <lastBuildDate>Thu, 30 Mar 2023 22:46:24 -0700</lastBuildDate>
+        <pubDate>Sat, 06 May 2023 00:00:00 -0700</pubDate>
+        <lastBuildDate>Sat, 06 May 2023 00:00:00 -0700</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/Notes/Academic%20Study/</guid>
+            <title>Academic Study</title>
+            <link>http://yoursite.com/Notes/Academic%20Study/</link>
+            <category term="Notes" scheme="http://yoursite.com/categories/Notes/" />
+            <pubDate>Sat, 06 May 2023 00:00:00 -0700</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;who-may-want-to-read-this-page&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#who-may-want-to-read-this-page&#34;&gt;#&lt;/a&gt; Who may want to Read this page&lt;/h1&gt;
+&lt;p&gt;I’m a freshman in Academic Research and I want to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn how to read a paper&lt;/li&gt;
+&lt;li&gt;Take the first step in my academic career and want to understand the basic common sense and unspoken rules of academia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;papers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#papers&#34;&gt;#&lt;/a&gt; Papers&lt;/h1&gt;
+&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;Mail&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;label success&#34;&gt;Mail&lt;/span&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOlpsaTUzOEB1Y3IuZWR1&#34;&gt;Zli538@ucr.edu&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label success&#34;&gt;Mail&lt;/span&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOmNhbHQyMDA4bHp4QGdtYWlsLmNvbQ==&#34;&gt;calt2008lzx@gmail.com&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;QQ&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;QQ&lt;/span&gt; 1011412062&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;my-experience&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#my-experience&#34;&gt;#&lt;/a&gt; My Experience&lt;/h2&gt;
+&lt;h3 id=&#34;here-are-my-experiences-in&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#here-are-my-experiences-in&#34;&gt;#&lt;/a&gt; Here are my experiences in:&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;Education Experience&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;Harbin Institute of Technology at Weihai                                                                               Weihai, China&lt;/p&gt;
+&lt;p&gt;B.Eng. in Cyberspace Security (School of Computer Science &amp;amp; Technology)            -----Sep. 2019-Jun. 2023&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;University of California Riverside                                                                                          Riverside, CA&lt;br /&gt;
+Graduate Preparation Program in Engineering (GPP-E)                                              -----Sep. 2022-June.2023&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;Working Experience&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;UCR,CSE&lt;/p&gt;
+&lt;p&gt;Reader(TA) for CS142 				-----Jan,2023~2023, April&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;UCR,CSE&lt;/p&gt;
+&lt;p&gt;Reader(TA) for CS260 				-----April ,2023~current&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;guidance-interface&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#guidance-interface&#34;&gt;#&lt;/a&gt; Guidance interface&lt;/h2&gt;
+&lt;p&gt;You can find my other blogs ,where I write about my insights and experiences in life and study, in the following list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation&lt;/li&gt;
+&lt;li&gt;Daily Writing&lt;/li&gt;
+&lt;li&gt;Leetcode/Codeforce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also have a portfolio showcasing some of the projects I&#39;ve worked on, and I&#39;m excited to share them with you. My hope is that you&#39;ll find the content here informative, engaging, and maybe even inspiring.&lt;/p&gt;
+&lt;p&gt;Whether you&#39;re a fellow [profession or interest, e.g., programmer, traveler, book lover, etc.] or just curious to learn more, I&#39;m glad you stopped by. Feel free to explore the site, leave comments, and get in touch—I&#39;d love to hear from you.&lt;/p&gt;
+&lt;p&gt;Thank you for visiting, and enjoy your stay!&lt;/p&gt;
+&lt;p&gt;Best,&lt;/p&gt;
+&lt;p&gt;Zhixu Li&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/hello-world/</guid>
             <title>Hello World</title>
             <link>http://yoursite.com/hello-world/</link>
-            <pubDate>Thu, 30 Mar 2023 22:46:24 -0700</pubDate>
+            <pubDate>Thu, 04 May 2023 23:33:23 -0700</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
