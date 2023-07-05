@@ -10,10 +10,81 @@
         </author>
         <description>Phd Student at UCR</description>
         <language>en</language>
-        <pubDate>Sat, 06 May 2023 00:00:00 -0700</pubDate>
-        <lastBuildDate>Sat, 06 May 2023 00:00:00 -0700</lastBuildDate>
+        <pubDate>Wed, 05 Jul 2023 00:00:00 -0700</pubDate>
+        <lastBuildDate>Wed, 05 Jul 2023 00:00:00 -0700</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/Notes/Summer%20Plan/</guid>
+            <title>Zhixu&#39;s Summer Plan</title>
+            <link>http://yoursite.com/Notes/Summer%20Plan/</link>
+            <category term="Notes" scheme="http://yoursite.com/categories/Notes/" />
+            <pubDate>Wed, 05 Jul 2023 00:00:00 -0700</pubDate>
+            <description><![CDATA[ &lt;h4 id=&#34;papers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#papers&#34;&gt;#&lt;/a&gt; Papers&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Specific Papers&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Suggesting Authors&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Andreas Zeller&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;English Writing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY291cnNlcmEub3JnL2xlYXJuL3NjaXdyaXRlL2hvbWUvd2Vlay8x&#34;&gt;Coursera: Writing in the Sciences, Stanford&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yZWRhY2FvY2llbnRpZmljYS53ZWVibHkuY29tL3VwbG9hZHMvNi8wLzIvMi82MDIyNjc1MS9zY2llbmNlX3dyaXRpbmdfZm9yX25vbi1uYXRpdmVfZW5naXNoX3NwZWFrZXJzLnBkZg==&#34;&gt;Science Research Writing for Non-Native Speakers of English&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/Notes/Academic%20Study/</guid>
             <title>Academic Study</title>
