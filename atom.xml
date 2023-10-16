@@ -27,7 +27,7 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;my-experience&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#my-experience&#34;&gt;#&lt;/a&gt; My Experience&lt;/h2&gt;
 &lt;h3 id=&#34;here-are-my-experiences-in&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#here-are-my-experiences-in&#34;&gt;#&lt;/a&gt; Here are my experiences in:&lt;/h3&gt;
-&lt;p&gt;+++News&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;News&lt;/summary&gt;&lt;div&gt;
 &lt;p&gt;Selected to serve in ASPLOS’24 Artifact Evaluation Committee.            -----July.2023&lt;/p&gt;
 &lt;p&gt;Started my new journey as a Ph.D. student at UCR.								-----Sep.2023&lt;/p&gt;
 &lt;p&gt;Selected to serve in 24th ChinaSys Workshop (ChinaSys 2023 Posters) Program Committee.-----June.2023&lt;/p&gt;
@@ -38,6 +38,7 @@
 &lt;hr /&gt;
 &lt;p&gt;University of California Riverside                                                                                          Riverside, CA&lt;br /&gt;
 Graduate Preparation Program in Engineering (GPP-E)                                              -----Sep. 2022-June.2023&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;details class=&#34;info&#34;&gt;&lt;summary&gt;Working Experience&lt;/summary&gt;&lt;div&gt;
 &lt;p&gt;UCR,CSE&lt;/p&gt;
