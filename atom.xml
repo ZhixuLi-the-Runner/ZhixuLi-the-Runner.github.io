@@ -66,93 +66,21 @@ Graduate Preparation Program in Engineering (GPP-E)                             
         <updated>2023-10-15T07:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/Notes/English%20Writting/</id>
+        <id>http://yoursite.com/EnlishWriting/English%20Writing/</id>
         <title>English Writing</title>
-        <link rel="alternate" href="http://yoursite.com/Notes/English%20Writting/"/>
+        <link rel="alternate" href="http://yoursite.com/EnlishWriting/English%20Writing/"/>
         <content type="html">&lt;p&gt;##English Writing&lt;/p&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5CZhixu%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230727000540944.png&#34; alt=&#34;image-20230727000540944&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5CZhixu%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230727000854666.png&#34; alt=&#34;image-20230727000854666&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="Notes" scheme="http://yoursite.com/categories/Notes/" />
+        <category term="EnglishWriting" scheme="http://yoursite.com/categories/EnglishWriting/" />
         <updated>2023-07-26T07:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/Notes/Summer%20Plan/</id>
-        <title>Zhixu&#39;s Summer Plan</title>
-        <link rel="alternate" href="http://yoursite.com/Notes/Summer%20Plan/"/>
-        <content type="html">&lt;h4 id=&#34;papers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#papers&#34;&gt;#&lt;/a&gt; Papers&lt;/h4&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Specific Papers&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Suggesting Authors&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Andreas Zeller&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;##English Writing&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY291cnNlcmEub3JnL2xlYXJuL3NjaXdyaXRlL2hvbWUvd2Vlay8x&#34;&gt;Coursera: Writing in the Sciences, Stanford&lt;/span&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yZWRhY2FvY2llbnRpZmljYS53ZWVibHkuY29tL3VwbG9hZHMvNi8wLzIvMi82MDIyNjc1MS9zY2llbmNlX3dyaXRpbmdfZm9yX25vbi1uYXRpdmVfZW5naXNoX3NwZWFrZXJzLnBkZg==&#34;&gt;Science Research Writing for Non-Native Speakers of English&lt;/span&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</content>
-        <category term="Notes" scheme="http://yoursite.com/categories/Notes/" />
-        <updated>2023-07-05T07:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://yoursite.com/Notes/Academic%20Study/</id>
+        <id>http://yoursite.com/Presentations/Academic%20Study/</id>
         <title>Academic Study</title>
-        <link rel="alternate" href="http://yoursite.com/Notes/Academic%20Study/"/>
+        <link rel="alternate" href="http://yoursite.com/Presentations/Academic%20Study/"/>
         <content type="html">&lt;h1 id=&#34;who-may-want-to-read-this-page&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#who-may-want-to-read-this-page&#34;&gt;#&lt;/a&gt; Who may want to Read this page&lt;/h1&gt;
 &lt;p&gt;I’m a freshman in Academic Research and I want to&lt;/p&gt;
 &lt;ul&gt;
@@ -230,7 +158,7 @@ Graduate Preparation Program in Engineering (GPP-E)                             
 &lt;p&gt;Best,&lt;/p&gt;
 &lt;p&gt;Zhixu Li&lt;/p&gt;
 </content>
-        <category term="Notes" scheme="http://yoursite.com/categories/Notes/" />
+        <category term="Presentations" scheme="http://yoursite.com/categories/Presentations/" />
         <updated>2023-05-06T07:00:00.000Z</updated>
     </entry>
     <entry>

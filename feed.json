@@ -17,33 +17,23 @@
             ]
         },
         {
-            "id": "http://yoursite.com/Notes/English%20Writting/",
-            "url": "http://yoursite.com/Notes/English%20Writting/",
+            "id": "http://yoursite.com/EnlishWriting/English%20Writing/",
+            "url": "http://yoursite.com/EnlishWriting/English%20Writing/",
             "title": "English Writing",
             "date_published": "2023-07-26T07:00:00.000Z",
             "content_html": "<p>##English Writing</p>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n<p><img data-src=\"C:%5CUsers%5CZhixu%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230727000540944.png\" alt=\"image-20230727000540944\" /></p>\n<p><img data-src=\"C:%5CUsers%5CZhixu%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230727000854666.png\" alt=\"image-20230727000854666\" /></p>\n",
             "tags": [
-                "Notes"
+                "EnglishWriting"
             ]
         },
         {
-            "id": "http://yoursite.com/Notes/Summer%20Plan/",
-            "url": "http://yoursite.com/Notes/Summer%20Plan/",
-            "title": "Zhixu's Summer Plan",
-            "date_published": "2023-07-05T07:00:00.000Z",
-            "content_html": "<h4 id=\"papers\"><a class=\"anchor\" href=\"#papers\">#</a> Papers</h4>\n<table>\n<thead>\n<tr>\n<th>Specific Papers</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><strong>Suggesting Authors</strong></td>\n<td></td>\n</tr>\n<tr>\n<td>Andreas Zeller</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>##English Writing</p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuY291cnNlcmEub3JnL2xlYXJuL3NjaXdyaXRlL2hvbWUvd2Vlay8x\">Coursera: Writing in the Sciences, Stanford</span></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><span class=\"exturl\" data-url=\"aHR0cHM6Ly9yZWRhY2FvY2llbnRpZmljYS53ZWVibHkuY29tL3VwbG9hZHMvNi8wLzIvMi82MDIyNjc1MS9zY2llbmNlX3dyaXRpbmdfZm9yX25vbi1uYXRpdmVfZW5naXNoX3NwZWFrZXJzLnBkZg==\">Science Research Writing for Non-Native Speakers of English</span></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n</tr>\n</tbody>\n</table>\n",
-            "tags": [
-                "Notes"
-            ]
-        },
-        {
-            "id": "http://yoursite.com/Notes/Academic%20Study/",
-            "url": "http://yoursite.com/Notes/Academic%20Study/",
+            "id": "http://yoursite.com/Presentations/Academic%20Study/",
+            "url": "http://yoursite.com/Presentations/Academic%20Study/",
             "title": "Academic Study",
             "date_published": "2023-05-06T07:00:00.000Z",
             "content_html": "<h1 id=\"who-may-want-to-read-this-page\"><a class=\"anchor\" href=\"#who-may-want-to-read-this-page\">#</a> Who may want to Read this page</h1>\n<p>I’m a freshman in Academic Research and I want to</p>\n<ul>\n<li>Learn how to read a paper</li>\n<li>Take the first step in my academic career and want to understand the basic common sense and unspoken rules of academia</li>\n</ul>\n<h1 id=\"papers\"><a class=\"anchor\" href=\"#papers\">#</a> Papers</h1>\n<div class=\"tab\" data-id=\"id1\" data-title=\"Field 1\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Original Paper</th>\n<th>My comment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"></td>\n<td></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"tab\" data-id=\"id1\" data-title=\"Field2\">\n</div>\n<div class=\"tab\" data-id=\"id1\" data-title=\"Field3\">\n</div>\n<h2 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h2>\n<h2 id=\"my-experience\"><a class=\"anchor\" href=\"#my-experience\">#</a> My Experience</h2>\n<h3 id=\"here-are-my-experiences-in\"><a class=\"anchor\" href=\"#here-are-my-experiences-in\">#</a> Here are my experiences in:</h3>\n<details class=\"primary\"><summary>Education Experience</summary><div>\n<p>Harbin Institute of Technology at Weihai                                                                               Weihai, China</p>\n<p>B.Eng. in Cyberspace Security (School of Computer Science &amp; Technology)            -----Sep. 2019-Jun. 2023</p>\n<hr />\n<p>University of California Riverside                                                                                          Riverside, CA<br />\nGraduate Preparation Program in Engineering (GPP-E)                                              -----Sep. 2022-June.2023</p>\n</div></details>\n<details class=\"info\"><summary>Working Experience</summary><div>\n<p>UCR,CSE</p>\n<p>Reader(TA) for CS142 \t\t\t\t-----Jan,2023~2023, April</p>\n<hr />\n<p>UCR,CSE</p>\n<p>Reader(TA) for CS260 \t\t\t\t-----April ,2023~current</p>\n</div></details>\n<h2 id=\"guidance-interface\"><a class=\"anchor\" href=\"#guidance-interface\">#</a> Guidance interface</h2>\n<p>You can find my other blogs ,where I write about my insights and experiences in life and study, in the following list:</p>\n<ul>\n<li>Presentation</li>\n<li>Daily Writing</li>\n<li>Leetcode/Codeforce</li>\n</ul>\n<p>I also have a portfolio showcasing some of the projects I've worked on, and I'm excited to share them with you. My hope is that you'll find the content here informative, engaging, and maybe even inspiring.</p>\n<p>Whether you're a fellow [profession or interest, e.g., programmer, traveler, book lover, etc.] or just curious to learn more, I'm glad you stopped by. Feel free to explore the site, leave comments, and get in touch—I'd love to hear from you.</p>\n<p>Thank you for visiting, and enjoy your stay!</p>\n<p>Best,</p>\n<p>Zhixu Li</p>\n",
             "tags": [
-                "Notes"
+                "Presentations"
             ]
         },
         {
