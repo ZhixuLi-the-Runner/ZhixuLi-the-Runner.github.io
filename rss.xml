@@ -31,42 +31,7 @@
             <category term="Contact" scheme="http://yoursite.com/tags/Contact/" />
             <category term="Experience" scheme="http://yoursite.com/tags/Experience/" />
             <pubDate>Sun, 15 Oct 2023 00:00:00 -0700</pubDate>
-            <description><![CDATA[ &lt;p&gt;Hello and welcome! My name is Zhixu Li, and I&#39;m thrilled to have you here on my personal homepage.&lt;/p&gt;
-&lt;p&gt;A little about me—I am currently a Ph.D. student of Professor &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3MudWNyLmVkdS9+cXpoYW5nLw==&#34;&gt;Zhang Qian&lt;/span&gt;.  You can find my resume &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTHNkd3ROclo2NUdHa2hnQThIRlREWVozUlJ3TDE2dVEvdmlldz91c3A9c2hhcmluZw==&#34;&gt;here&lt;/span&gt;. My LinkedIn page is &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3poaXh1LWxpLTk4YTNhMjI1My8=&#34;&gt;here&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;You can contact me through the following methods：&lt;/p&gt;
-&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;Mail&#34;&gt;
-&lt;p&gt;&lt;span class=&#34;label success&#34;&gt;Mail&lt;/span&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOlpsaTUzOEB1Y3IuZWR1&#34;&gt;Zli538@ucr.edu&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;label success&#34;&gt;Mail&lt;/span&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOmNhbHQyMDA4bHp4QGdtYWlsLmNvbQ==&#34;&gt;calt2008lzx@gmail.com&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;QQ&#34;&gt;
-&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;QQ&lt;/span&gt; 1011412062&lt;/p&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;my-experience&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#my-experience&#34;&gt;#&lt;/a&gt; My Experience&lt;/h2&gt;
-&lt;h3 id=&#34;here-are-my-experiences-in&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#here-are-my-experiences-in&#34;&gt;#&lt;/a&gt; Here are my experiences in:&lt;/h3&gt;
-&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;News&lt;/summary&gt;&lt;div&gt;
-&lt;p&gt;Selected to serve in ASPLOS’24 Artifact Evaluation Committee.            -----July.2023&lt;/p&gt;
-&lt;p&gt;Started my new journey as a Ph.D. student at UCR.								-----Sep.2023&lt;/p&gt;
-&lt;p&gt;Selected to serve in 24th ChinaSys Workshop (ChinaSys 2023 Posters) Program Committee.-----June.2023&lt;/p&gt;
-&lt;hr /&gt;
-&lt;/div&gt;&lt;/details&gt;
-&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;Education Experience&lt;/summary&gt;&lt;div&gt;
-&lt;p&gt;University of California Riverside  											  Riverside, CA, US&lt;/p&gt;
-&lt;p&gt;PhD  student															-----Sep. 2023-Current&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Harbin Institute of Technology at Weihai                                                                               Weihai, China&lt;/p&gt;
-&lt;p&gt;B.Eng. in Cyberspace Security (School of Computer Science &amp;amp; Technology)            -----Sep. 2019-Jun. 2023&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;University of California Riverside Extension                                                                           Riverside, CA&lt;br /&gt;
-Graduate Preparation Program in Engineering (GPP-E)                                              -----Sep. 2022-June.2023&lt;/p&gt;
-&lt;/div&gt;&lt;/details&gt;
-&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;Working Experience&lt;/summary&gt;&lt;div&gt;
-&lt;p&gt;UCR,CSE&lt;/p&gt;
-&lt;p&gt;Reader(TA) for CS142 				-----Jan,2023~ April,2023&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;UCR,CSE&lt;/p&gt;
-&lt;p&gt;Reader(TA) for CS260 				-----April ,2023~June,2023&lt;/p&gt;
-&lt;/div&gt;&lt;/details&gt;
-&lt;h2 id=&#34;guidance-interface&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#guidance-interface&#34;&gt;#&lt;/a&gt; Guidance interface&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;guidance-interface&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#guidance-interface&#34;&gt;#&lt;/a&gt; Guidance interface&lt;/h2&gt;
 &lt;p&gt;You can find my other blogs ,where I write about my insights in  study or experiences in life:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Presentation&lt;/li&gt;
